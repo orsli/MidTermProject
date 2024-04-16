@@ -51,7 +51,7 @@
 ChEMBL is a database of bioactive molecules with drug-like properties. It provides information about the interactions of molecules with targets and the effects of these interactions. The database is widely used in drug discovery and development, pharmacology, and related fields. To access ChEMBL, you can use the following methods.
 
 #### Website
-ChEMBL provides a web interface (https://www.ebi.ac.uk/chembl/) where you can search for compounds, tar-gets, assays, and other relevant information. The website offers various tools and resources for data exploration and analysis.
+ChEMBL provides a [web interface](https://www.ebi.ac.uk/chembl/) where you can search for compounds, tar-gets, assays, and other relevant information. The website offers various tools and resources for data exploration and analysis.
 
 #### Programmatic Access
 ChEMBL provides a web services API that allows you to programmatically query and retrieve data from the data-base. This enables integration with software applications and automation of data retrieval processes. The API is well-documented and supports various programming languages.
