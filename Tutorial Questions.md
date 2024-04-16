@@ -30,3 +30,4 @@ Besides the training and test sets, there are also validation and prediction set
 8. Scatter Plot: A scatter plot is created to visualize the predicted vs. true pIC50 values on the test set, evaluating the model's predictive capability.
 9. *Prediction on External/Unlabeled Data: The trained model is used to predict pIC50 values for compounds in an external/unlabeled dataset. The predictions are saved, and the top three compounds with the highest predicted pIC50 values are selected for further investigation.*
 10. *Select the Top 3 Compounds: The top three compounds with the highest predicted pIC50 values are selected, and their molecular structures are visualized using RDKit.*
+*Steps 9 and 10 are not performed.*
