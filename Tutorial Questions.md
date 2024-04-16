@@ -7,7 +7,9 @@ The training set consits of 179'827 entries of data related to molecules and the
 * smiles: The simplified molecular-input line-entry system (SMILES) notation which expresses the inline textual representation of the molecule's structure.
 
 ## 2. What modifications do you need to do to the data set to perform the tutorial.
-
+To be able to use the data set for performing the tutorial, the following modifications had to be done:
+1. **Calculating the pIC:** For each entry in the database we calculated the negative logarithm of the IC values and stored them in a new column. The pIC was calculated by the formula pIC = -log(IC).
+2. **Generating the MACCS fingerprints:** The fingerprints are representations of the molecular structure which can then be used for machine learning tasks in cheminformatics. For that, we followed the instructions in the [tutorial](https://projects.volkamerlab.org/teachopencadd/talktorials/T022_ligand_based_screening_neural_network.html).
 
 ## 3. What is a test set? Any other types of set?
 
