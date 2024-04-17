@@ -118,6 +118,7 @@ scp username@submit03.unibe.ch:~/venvML/outputML.txt ~/Desktop
 
 The following two pictures show the training and the test-prediction of the ML model:
 
-![training results](https://github.com/orsli/MidTermProject/assets/160760991/8deae24d-cb03-4532-8bf1-fce53d260bd6)
-![prediction results](https://github.com/orsli/MidTermProject/assets/160760991/b50f4e0b-61d1-463e-b551-1ff0e2af8d9f)
+![training](https://github.com/orsli/MidTermProject/assets/160760991/b11b645c-b5f0-4ba9-9f90-75701562fab3)
+![scatterplot](https://github.com/orsli/MidTermProject/assets/160760991/0931f5b0-8e8f-42ce-8521-5f2f8b1d0d3c)
+
 
