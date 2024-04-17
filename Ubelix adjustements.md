@@ -64,6 +64,7 @@ The file transfer was done with scp:
 ```bash
 scp /Users/user1/testVenv/MidTermProject/* username@submit03.unibe.ch:~/venvML
 ```
+As I got a "connection timed out, connection lost" error I transferred the files with FileZilla.
 
 ### 5. Prepare UBELIX
 Now that all files were in the right place the necessary python packages could be installed in the virtual environment on UBELIX:
